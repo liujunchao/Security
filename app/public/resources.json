@@ -1,0 +1,252 @@
+[
+    {
+        "name": "首页",
+        "key": "home.index",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "漫游态势",
+        "key": "home.monitor.situation.myts",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "特定人态势",
+        "key": "home.monitor.situation.wzrts",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "track",
+                "name": "查看行走轨迹"
+            },
+            {
+                "key": "portrait",
+                "name": "查看人物画像"
+            }
+        ]
+    },
+    {
+        "name": "维族人分布",
+        "key": "home.monitor.situation.ycts",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "聚集预警",
+        "key": "home.monitor.situation.gather",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "区域配置管理",
+        "key": "home.monitor.region.zone",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "首次发现预警",
+        "key": "home.monitor.region.warn",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "维族人进入",
+        "key": "home.monitor.region.wzr-enter",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "人群配置管理",
+        "key": "home.monitor.crowd.crowds",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit",
+                "name": "新增编辑"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "发现配置",
+        "key": "home.monitor.crowd.ds",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit",
+                "name": "新增编辑"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "人群监测预警",
+        "key": "home.monitor.crowd.warn",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "基础资源查询",
+        "key": "home.monitor.query.jczycx",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "export"
+            }
+        ]
+    },
+    {
+        "name": "知识库数据查询",
+        "key": "home.monitor.query.jgsjcx",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "export"
+            }
+        ]
+    },
+    {
+        "name": "数据通用查询",
+        "key": "home.monitor.query.search",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "export"
+            }
+        ]
+    },
+    {
+        "name": "人群种类",
+        "key": "home.monitor.base.kind",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "人群子种类",
+        "key": "home.monitor.base.subkind",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "异常数据",
+        "key": "home.monitor.base.health",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "用户管理",
+        "key": "home.manager.user.list",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "角色管理",
+        "key": "home.manager.role.list",
+        "operations": [
+            {
+                "key": "view"
+            },
+            {
+                "key": "edit"
+            },
+            {
+                "key": "delete"
+            }
+        ]
+    },
+    {
+        "name": "MYSQL日志查询",
+        "key": "home.manager.log.mysql",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    },
+    {
+        "name": "ES日志查询",
+        "key": "home.manager.log.es",
+        "operations": [
+            {
+                "key": "view"
+            }
+        ]
+    }
+]

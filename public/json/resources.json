@@ -1,0 +1,12 @@
+[
+    {
+        "name":"漫游态势",
+        "key":"myts",
+        "operations":["view"]
+    },
+    {
+        "name":"特定人态势",
+        "key":"tdrts",
+        "operations":["view","tdr_route"]
+    }
+]
