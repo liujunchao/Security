@@ -1,6 +1,4 @@
-# chinese-famous-brand
-
-
+该项目是用node egg.js与orm sequelize 实现的小型的权限服务层，采用mysql数据库，提供用户管理、权限管理、角色管理、用户角色映射、角色资源映射等功能所需要的restful接口。
 
 ## QuickStart
 
